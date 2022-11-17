@@ -1,7 +1,6 @@
-ijho;a
-fsjfopsjf[
-sfks
-map
-nokjhois
-fjlsnfjlsnfjns
-njfhsl
+anajli ligade
+naru ligade
+sandy ligade
+swaaaaa ligade
+everything ok na 
+data analyst
