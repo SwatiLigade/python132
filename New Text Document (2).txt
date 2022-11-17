@@ -1,0 +1,12 @@
+DATABASES = {
+    "default": {
+        "ENGINE": "mssql",
+        "NAME": "python3334",
+        "USER": "",
+        "PASSWORD": "",
+        "HOST": "LAPTOP-24JHMUGS\SQLEXPRESS",
+        "PORT": "",
+        "OPTIONS": {"driver": "ODBC Driver 17 for SQL Server",
+        },
+    },
+}
